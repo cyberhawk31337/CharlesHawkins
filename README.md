@@ -38,7 +38,7 @@ Cybersecurity homelab builder exploring virtualization, containerization, networ
 - Further my passion in my dream career i.e. CyberSecurity
 
 
-##Homelab Projects
+## Homelab Projects
 
 - **Navidrome Music Server** https://github.com/cyberhawk31337/Homelab-Navidrome
   - Self-hosted music streaming server running in Docker on Proxmox with secure remote access using Tailscale.
