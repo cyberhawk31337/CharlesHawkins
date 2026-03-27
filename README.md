@@ -42,3 +42,6 @@ Cybersecurity homelab builder exploring virtualization, containerization, networ
 
 - **Navidrome Music Server** https://github.com/cyberhawk31337/Homelab-Navidrome
   - Self-hosted music streaming server running in Docker on Proxmox with secure remote access using Tailscale.
+
+- **Wazuh SIEM** https://github.com/cyberhawk31337/Homelab-Wazuh-SIEM
+  - Established SIEM logging and monitoring for homelab
